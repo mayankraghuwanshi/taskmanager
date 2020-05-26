@@ -13,6 +13,6 @@ $ npm start
 ## The published To-do App:
 https://mayankraghuwanshi.github.io/taskmanager/
 
-References : 
-https://github.com/abarna1908/To-do-App-in-React-Code
+References : <br>
+https://github.com/abarna1908/To-do-App-in-React-Code <br>
 https://medium.com/@rossbulat/redux-for-react-a-simple-introduction-b1f9dcbda8f4
